@@ -91,7 +91,7 @@ int main() {
 ```
 
 
-## OUTPUT
+
 
 
 
@@ -105,6 +105,3 @@ int main() {
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
 
 
-
-## RESULT
-A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
